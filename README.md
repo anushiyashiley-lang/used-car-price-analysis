@@ -74,3 +74,5 @@ The model explained approximately 78% of the variation in used-car listing price
 
 View the complete analysis here:
 
+[Assignment 11.1 - Used Car Price Analysis](Assignment_11_1_Used_car_price_analysis.ipynb)
+
